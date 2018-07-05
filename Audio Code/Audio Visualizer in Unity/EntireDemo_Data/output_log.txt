@@ -1,0 +1,66 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x191b)
+    Vendor:   Intel
+    VRAM:     2091 MB
+    Driver:   9.1.0.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\100555218\Documents\jacob-vorstenbosch-portfolio\Audio Code\Audio Visualizer in Unity\EntireDemo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\100555218\Documents\jacob-vorstenbosch-portfolio\Audio Code\Audio Visualizer in Unity\EntireDemo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\100555218\Documents\jacob-vorstenbosch-portfolio\Audio Code\Audio Visualizer in Unity\EntireDemo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\100555218\Documents\jacob-vorstenbosch-portfolio\Audio Code\Audio Visualizer in Unity\EntireDemo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\100555218\Documents\jacob-vorstenbosch-portfolio\Audio Code\Audio Visualizer in Unity\EntireDemo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\100555218\Documents\jacob-vorstenbosch-portfolio\Audio Code\Audio Visualizer in Unity\EntireDemo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\100555218\Documents\jacob-vorstenbosch-portfolio\Audio Code\Audio Visualizer in Unity\EntireDemo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\100555218\Documents\jacob-vorstenbosch-portfolio\Audio Code\Audio Visualizer in Unity\EntireDemo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\100555218\Documents\jacob-vorstenbosch-portfolio\Audio Code\Audio Visualizer in Unity\EntireDemo_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\100555218\Documents\jacob-vorstenbosch-portfolio\Audio Code\Audio Visualizer in Unity\EntireDemo_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+Platform assembly: C:\Users\100555218\Documents\jacob-vorstenbosch-portfolio\Audio Code\Audio Visualizer in Unity\EntireDemo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\100555218\Documents\jacob-vorstenbosch-portfolio\Audio Code\Audio Visualizer in Unity\EntireDemo_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.615800 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 154 -> priority: 1 
+  Thread -> id: 1c64 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.444443 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 249.
+Total: 0.106666 ms (FindLiveObjects: 0.013827 ms CreateObjectMapping: 0.008691 ms MarkObjects: 0.069135 ms  DeleteObjects: 0.014222 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.592196 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 258.
+Total: 0.369777 ms (FindLiveObjects: 0.068740 ms CreateObjectMapping: 0.033185 ms MarkObjects: 0.152098 ms  DeleteObjects: 0.115357 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.670814 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 249.
+Total: 0.161184 ms (FindLiveObjects: 0.035950 ms CreateObjectMapping: 0.009086 ms MarkObjects: 0.101925 ms  DeleteObjects: 0.013827 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.486320 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 249.
+Total: 0.170271 ms (FindLiveObjects: 0.017382 ms CreateObjectMapping: 0.012246 ms MarkObjects: 0.094419 ms  DeleteObjects: 0.045827 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.471308 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 258.
+Total: 0.176592 ms (FindLiveObjects: 0.024493 ms CreateObjectMapping: 0.017777 ms MarkObjects: 0.076641 ms  DeleteObjects: 0.057283 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.552295 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 249.
+Total: 0.142222 ms (FindLiveObjects: 0.033975 ms CreateObjectMapping: 0.009481 ms MarkObjects: 0.069135 ms  DeleteObjects: 0.029234 ms)
+
